@@ -55,7 +55,7 @@ namespace _04.Hotel
             totalDoublePrice = nightsCount * doublePrice;
             totalSuitePrice = nightsCount * suitePrice;
 
-            if (month == "September" || month == "October") { totalStudioPrice -= studioPrice; }
+            if (month == "September" || month == "October") { totalStudioPrice -= discountOneNight; }
 
             Console.WriteLine($"Studio: {totalStudioPrice:F2} lv.");
             Console.WriteLine($"Double: {totalDoublePrice:F2} lv.");

@@ -1,0 +1,3 @@
+C:\Users\kalin\Documents\Visual Studio 2017\Projects\02.Conditional-Statements-and-Loops-Core\03.Restaurant-Discount\obj\Debug\netcoreapp2.1\03.Restaurant-Discount.csproj.CoreCompileInputs.cache
+C:\Users\kalin\Documents\Visual Studio 2017\Projects\02.Conditional-Statements-and-Loops-Core\03.Restaurant-Discount\obj\Debug\netcoreapp2.1\03.Restaurant-Discount.AssemblyInfoInputs.cache
+C:\Users\kalin\Documents\Visual Studio 2017\Projects\02.Conditional-Statements-and-Loops-Core\03.Restaurant-Discount\obj\Debug\netcoreapp2.1\03.Restaurant-Discount.AssemblyInfo.cs

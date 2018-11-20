@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\bin\Debug\netcoreapp2.0\05.Word-in-Plural.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\bin\Debug\netcoreapp2.0\05.Word-in-Plural.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\bin\Debug\netcoreapp2.0\05.Word-in-Plural.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\bin\Debug\netcoreapp2.0\05.Word-in-Plural.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\bin\Debug\netcoreapp2.0\05.Word-in-Plural.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\05.Word-in-Plural\obj\Debug\netcoreapp2.0\05.Word-in-Plural.pdb

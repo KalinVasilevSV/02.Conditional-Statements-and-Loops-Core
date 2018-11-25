@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\bin\Debug\netcoreapp2.0\15.Neighbour-Wars.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\bin\Debug\netcoreapp2.0\15.Neighbour-Wars.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\bin\Debug\netcoreapp2.0\15.Neighbour-Wars.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\bin\Debug\netcoreapp2.0\15.Neighbour-Wars.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\bin\Debug\netcoreapp2.0\15.Neighbour-Wars.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\15.Neighbour-Wars\obj\Debug\netcoreapp2.0\15.Neighbour-Wars.pdb

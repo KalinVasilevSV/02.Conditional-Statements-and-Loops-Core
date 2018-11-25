@@ -9,25 +9,34 @@ namespace _11.Five_Different_Numbers
             int numOne = int.Parse(Console.ReadLine());
             int numTwo = int.Parse(Console.ReadLine());
 
-            for (int n1 = 0; n1 <= numTwo; n1++)
+            bool foundCombo = false;
+
+            for (int n1 = numOne; n1 <= numTwo; n1++)
             {
-                for (int n2 = 0; n2 <= numTwo; n2++)
+                for (int n2 = numOne; n2 <= numTwo; n2++)
                 {
-                    for (int n3 = 0; n3 <=numTwo; n3++)
+                    for (int n3 = numOne; n3 <=numTwo; n3++)
                     {
-                        for (int n4 = 0; n4 <=numTwo; n4++)
+                        for (int n4 = numOne; n4 <=numTwo; n4++)
                         {
-                            for (int n5 = 0; n5 <= numTwo; n5++)
+                            for (int n5 = numOne; n5 <= numTwo; n5++)
                             {
                                 if ((numOne <= n1) && (n1 < n2) && (n2 < n3) && (n3 < n4) && (n4 < n5) && (n5 <= numTwo))
                                 {
                                     Console.WriteLine($"{n1} {n2} {n3} {n4} {n5}");
+                                    foundCombo = true;
                                 }
                             }
                         }
                     }
                 }
             }
+
+            if(!foundCombo)
+            {
+                Console.WriteLine("No");
+            }
+
         }
     }
 }

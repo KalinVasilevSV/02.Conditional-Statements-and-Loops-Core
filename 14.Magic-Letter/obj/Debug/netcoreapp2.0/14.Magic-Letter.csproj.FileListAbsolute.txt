@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\bin\Debug\netcoreapp2.0\14.Magic-Letter.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\bin\Debug\netcoreapp2.0\14.Magic-Letter.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\bin\Debug\netcoreapp2.0\14.Magic-Letter.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\bin\Debug\netcoreapp2.0\14.Magic-Letter.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\bin\Debug\netcoreapp2.0\14.Magic-Letter.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\14.Magic-Letter\obj\Debug\netcoreapp2.0\14.Magic-Letter.pdb

@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\bin\Debug\netcoreapp2.0\13.Game-of-Numbers.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\bin\Debug\netcoreapp2.0\13.Game-of-Numbers.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\bin\Debug\netcoreapp2.0\13.Game-of-Numbers.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\bin\Debug\netcoreapp2.0\13.Game-of-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\bin\Debug\netcoreapp2.0\13.Game-of-Numbers.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\obj\Debug\netcoreapp2.0\13.Game-of-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\obj\Debug\netcoreapp2.0\13.Game-of-Numbers.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\obj\Debug\netcoreapp2.0\13.Game-of-Numbers.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\obj\Debug\netcoreapp2.0\13.Game-of-Numbers.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\02.Conditional-Statements-and-Loops-Core\13.Game-of-Numbers\obj\Debug\netcoreapp2.0\13.Game-of-Numbers.pdb
